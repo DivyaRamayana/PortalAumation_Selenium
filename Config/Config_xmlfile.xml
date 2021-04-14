@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Portals_Config>
+<Portal>
+	<Name>KHS</Name>
+	<Status>Active</Status>
+	<Runjobpath>E:\Portal_Automation_Server\Bots\Portal_Automation_bat.bat</Runjobpath>
+	<Destination_Dir>E:\Portal_Automation_Server\nginx\html\Assets\KHS</Destination_Dir>
+</Portal>
+<Portal>
+	<Name>Krones</Name>
+	<Status>Active</Status>
+	<Runjobpath>E:\Test_Portal_Automation\Config</Runjobpath>
+	<Destination_Dir>E:\Test_Portal_Automation\Krones</Destination_Dir>
+</Portal>
+</Portals_Config>

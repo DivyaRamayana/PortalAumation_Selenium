@@ -1,0 +1,7 @@
+Portal,Time,Status,Number of Files Downloaded,Directory path
+KHS,855,Success,7,E:\Automation\KHS\18052020\0855
+KHS,905,Success,7,E:\Automation\KHS\18052020\0905
+KHS,908,Success,7,E:\Automation\KHS\18052020\0908
+KHS,911,Success,7,E:\Automation\KHS\18052020\0911
+KHS,915,Success,7,E:\Automation\KHS\18052020\0915
+KHS,1117,Success,7,E:\Automation\KHS\18052020\1117
